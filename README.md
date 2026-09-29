@@ -248,7 +248,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=
 ### 1. Клонирование
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/umnaya-korzina.git
+git clone https://github.com/JOSHING132/umnaya-korzina.git
 cd umnaya-korzina
 ```
 
